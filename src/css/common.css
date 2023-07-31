@@ -16,3 +16,11 @@ img {
   display: block;
   max-width: 100%;
 }
+
+button {
+  border: none;
+  border-radius: 100px;
+  background-color: rgb(100, 175, 255);
+  padding: 40px;
+  font-size: 35px;
+}
